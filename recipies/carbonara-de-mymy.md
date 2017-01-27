@@ -6,19 +6,13 @@
 
 ## Ingredients
 
-Chop in 1cm pieces
-
-- ~250g Proscuitto
-- ~250g Bacon
-- ~175g Spicy Calabrese
-
+- ~250g Proscuitto chopped in 1 cm pieces
+- ~250g Bacon chopped in 1 cm pieces
+- ~175g Spicy Calabrese chopped in 1 cm pieces
 - ~6 Diced challots
 - ~4 Pureed garlic cloves
-
 - 1 Pint of 15% cream
-
 - Gratted Parmesan
-
 - One egg yolk for each plate
 
 ## Steps

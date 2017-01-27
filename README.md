@@ -1,5 +1,4 @@
-# Title 1
+# Recipies
 
-## Title 2
-[Carbonara Pasta](./recipies/carbonara-de-mymy.md)
-[Chana Masala](./recipies/chana-masala.md)
+- [Carbonara Pasta](./recipies/carbonara-de-mymy.md)
+- [Chana Masala](./recipies/chana-masala.md)

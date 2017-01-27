@@ -1,18 +1,28 @@
-~250gr proscuitto
-~250gr bacon
-~175gr saucisse calabrese piquante
+# Carbonara pasta
 
-Coupés en petits morceaux 
+**Preperation:** 15 minutes
 
-~6 oignons vert
-~4 gousses d'ail
+**Cooking time:** 15 minutes
 
-1chopine de crème 15%
+## Ingredients
 
-Parmesan
+Chop in 1cm pieces
+- ~250g Proscuitto
+- ~250g Bacon
+- ~175g Spicy Calabrese
 
-Jaune d'œuf pour chaque assiette
+- ~6 Diced challots
+- ~4 Pureed garlic cloves
 
-Chacun des ingrédients, c'est du +\- selon le goûts. 
+- 1 Pint of 15% cream
 
-Tu fais revenir les oignons verts et l'ail dans le bacon, tu ajoutes les autres viandes. Quand ça te semble bien cuits, tu ajoutes la crèmes, fait mijoter un peu, le temps que la crème se lie au reste du bon gras. Je mets du parmesan dans la sauce et j'en ajoute dans l'assiette avec le jaune d'œuf. 
+- Gratted Parmesan
+
+- One egg yolk for each plate
+
+## Steps
+
+1. Sizzle onions and garlic with the bacon, add other meats.
+1. When all is cooked, add cream, stir and bring to simmer.
+1. Stir for 5 more minutes.
+1. Plate and add parmesan and an egg yolk in the center of each plate.

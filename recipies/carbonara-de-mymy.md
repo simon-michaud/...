@@ -7,6 +7,7 @@
 ## Ingredients
 
 Chop in 1cm pieces
+
 - ~250g Proscuitto
 - ~250g Bacon
 - ~175g Spicy Calabrese

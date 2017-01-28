@@ -5,7 +5,7 @@
 
 **Preperation:** 15 minutes
 
-**Cooking time:** 40 hours
+**Cooking time:** 40 minutes
 
 ## Ingredients
 

@@ -18,7 +18,7 @@
 - 1 onion, finely chopped
 - 2 inches/5cm fresh ginger, grated
 - 1 large clove of garlic, cut up
-- 1tbsp coriander
+- 1 tbsp coriander
 - 1 tbsp chopped fresh mint
 - 4 cloves garlic, chopped
 - juice of 1 lime

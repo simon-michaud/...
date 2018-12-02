@@ -7,6 +7,7 @@
 - [Korma Sauce](./recipies/korma-sauce.md)
 - [Vegetable Nugets](./recipies/vegetable-nugets.md)
 - [Crispy Chickpea Friters](./recipies/crispy-chickpea-friters.md)
+- [Fèves Sopressata](./recipies/feves-sopressata.md)
 
 ## Deserts
 

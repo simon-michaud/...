@@ -22,7 +22,7 @@
 
 ## Steps
 
-1. Make confit by crushing it and cooking it in a cast iron cooker with canola oil at 300F for ~2 hours.  Once done, remove it to reuse cooker.
+1. Make garlic confit by crushing it and cooking it in a cast iron cooker with canola oil at 300F for ~2 hours.  Once done, remove it to reuse cooker.
 1. Fry diced onion in cooker until it goldens (add oil if necessary).
 1. Start oven at 350F
 1. Deglaze cooker with the tomatos juice, add all ingredients except chickpeas and mix thouroughly.

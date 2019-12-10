@@ -17,7 +17,7 @@
 - 1 tblsp tumeric
 - 1 tsp chili powder
 - 1 tsp flaked hot peppers
-- 3 tblsp beef brooth
+- 3 tblsp beef brooth or 2 tblsp dark misi paste
 - 3 cups chickpeas
 
 ## Steps

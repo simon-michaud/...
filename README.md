@@ -11,6 +11,7 @@
 
 ## Deserts
 
+- [Chocolate Spread](./recipies/chocolate-spread.md)
 - [Chocolate Cookie Mix in a Jar](./recipies/chocolate-cookie-mix-in-a-jar.md)
 - [Country Oatmeal Cookie in a Jar](./recipies/country-oatmeal-cookie-in-a-jar.md)
 - [Brownie Mix in a Jar](./recipies/brownie-mix-in-a-jar.md)

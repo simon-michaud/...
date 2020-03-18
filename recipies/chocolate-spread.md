@@ -15,6 +15,6 @@
 
 * Mix chickpeas and pumpkin/tahini in food processor.
 
-* Put oil in bottom of a bowl and chocolate chips on top, heat at medium heat until it metls, add it to the food processor until all mixed.
+* Put oil in bottom of a bowl and chocolate chips on top, heat at medium heat until it melts, add it to the food processor until all mixed.
 
 * Can be kept in fridge for a week or frozen forever.
